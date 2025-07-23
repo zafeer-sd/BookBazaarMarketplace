@@ -38,7 +38,7 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Book className="text-primary text-2xl mr-3" />
-            <span className="text-2xl font-bold text-gray-900 font-serif">BookBazaar</span>
+            <span className="text-2xl font-bold text-gray-900 font-serif">BoOKNOW</span>
           </Link>
 
           {/* Search Bar */}
